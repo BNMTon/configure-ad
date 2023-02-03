@@ -23,7 +23,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>High-Level Deployment and Configuration Steps</h2>
 
 - Install Active Directionary
-- Create Account in AD
+- Create Accounts in Active Directionary
 - Set up Romote Desktop
 - Allow Domain Users Acess 
 
