@@ -51,3 +51,10 @@ Create Accounts In Avtive Directory
 Allow Domain Users Access
 </p>
 <br />
+
+<img src="https://i.imgur.com/2AhrNWd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Allow Domain Administrator
+</p>
+<br />
